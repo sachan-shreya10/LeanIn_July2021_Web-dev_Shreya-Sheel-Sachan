@@ -7,3 +7,5 @@ Completed Milestone 2 :: created a to-do list using html,bootstrap and javascrip
 
 Completed Milestone 3 :: created a basic greeting site using react
 
+Completed Milestone 4 :: created a fully dynamic and responsive portfolio using react
+
